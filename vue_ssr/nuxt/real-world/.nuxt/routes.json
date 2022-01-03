@@ -1,0 +1,44 @@
+[
+  {
+    "name": "home",
+    "path": "",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages",
+    "_name": "_7d8571d7"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\login\\\\index.vue",
+    "_name": "_554c3d10"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\login",
+    "_name": "_7ba73232"
+  },
+  {
+    "name": "profile",
+    "path": "/profile/:username",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\profile",
+    "_name": "_07ca3e32"
+  },
+  {
+    "name": "editor",
+    "path": "/editor",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\editor",
+    "_name": "_26999078"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\settings",
+    "_name": "_fa84ce8c"
+  },
+  {
+    "name": "article",
+    "path": "/article/:id",
+    "component": "D:\\\\files\\\\study\\\\lagou-study-course\\\\vue_ssr\\\\nuxt\\\\real-world\\\\pages\\\\article",
+    "_name": "_22d6fd02"
+  }
+]
